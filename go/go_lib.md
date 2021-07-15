@@ -10,7 +10,7 @@ https://github.com/distribworks/dkron
 ## jsonlogic
 https://github.com/diegoholiveira/jsonlogic
 
-golang规则引擎
+golang json格式规则引擎
 
 ## govaluate
 https://github.com/Knetic/govaluate
