@@ -11,3 +11,8 @@ https://github.com/distribworks/dkron
 https://github.com/diegoholiveira/jsonlogic
 
 golang规则引擎
+
+## govaluate
+https://github.com/Knetic/govaluate
+
+golang规则引擎
