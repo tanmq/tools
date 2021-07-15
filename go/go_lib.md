@@ -15,4 +15,4 @@ golang json格式规则引擎
 ## govaluate
 https://github.com/Knetic/govaluate
 
-golang规则引擎
+golang表达式引擎
